@@ -1,0 +1,15 @@
+Package: speedRlibTF
+Version: 0.3-39
+Title: speedR's table filter library
+Author: Ilhami Visne
+Maintainer: Ilhami Visne <ilhami.visne@ait.ac.at>
+Description: This package contains the "tablefilter" library, which is
+        used by speedR.
+License: GPL (>= 2)
+Repository: CRAN
+Repository/R-Forge/Project: speedr
+Repository/R-Forge/Revision: 39
+Repository/R-Forge/DateTimeStamp: 2013-03-14 18:02:12
+Date/Publication: 2013-03-31 11:38:35
+Packaged: 2013-03-14 19:15:15 UTC; rforge
+NeedsCompilation: no
